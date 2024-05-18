@@ -17,3 +17,7 @@ Voici l'algorithme de calcul:
   Pour l'execution, tapez la commande:
 
     python main.py
+
+La prochaine algorithme se portera sur l'algorithme de Crout
+
+## ALgorithme de Crout
